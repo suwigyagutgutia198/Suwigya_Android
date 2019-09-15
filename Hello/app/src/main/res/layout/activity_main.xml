@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <LinearLayout
+        android:gravity="0x10"
+        android:orientation="0"
+        android:id="@ref/0x7f0f002e"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layout_marginStart="@ref/0x7f090021">
+
+        <ImageView
+            android:id="@ref/0x7f0f002f"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:contentDescription="@ref/0x00000000"
+            android:layout_marginEnd="dimension(3841)" />
+
+        <TextView
+            android:textSize="@ref/0x7f090022"
+            android:textColor="@ref/0x7f0c0012"
+            android:id="@ref/0x7f0f0030"
+            android:layout_width="-2"
+            android:layout_height="-2" />
+
+        <ImageView
+            android:layout_gravity="0x10"
+            android:background="@ref/0x7f020077"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(12582945)"
+            android:contentDescription="@ref/0x00000000"
+            android:layout_marginStart="dimension(1537)" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="0x10"
+        android:orientation="1"
+        android:id="@ref/0x7f0f0031"
+        android:layout_width="-1"
+        android:layout_height="-1"
+        android:layout_marginStart="@ref/0x7f09004a"
+        android:layout_marginEnd="@ref/0x7f090021"
+        android:layout_toEndOf="@ref/0x7f0f002e">
+
+        <com.miui.calculator.common.widget.ScrollTextView
+            android:id="@ref/0x7f0f0032"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:gravity="0x800005"
+            android:textColor="@ref/0x7f0c0014"
+            android:textSize="@ref/0x7f090024" />
+
+        <TextView
+            android:textSize="@ref/0x7f090003"
+            android:textColor="@ref/0x7f0c0013"
+            android:layout_gravity="0x800005"
+            android:id="@ref/0x7f0f0033"
+            android:layout_width="-2"
+            android:layout_height="-2" />
+    </LinearLayout>
+</RelativeLayout>
+    <?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="-1"
+android:layout_height="-1">
+
+<LinearLayout
+    android:gravity="0x10"
+    android:orientation="0"
+    android:id="@ref/0x7f0f002e"
+    android:layout_width="-2"
+    android:layout_height="-1"
+    android:layout_marginStart="@ref/0x7f090021">
+
+    <ImageView
+        android:id="@ref/0x7f0f002f"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:contentDescription="@ref/0x00000000"
+        android:layout_marginEnd="dimension(3841)" />
+
+    <TextView
+        android:textSize="@ref/0x7f090022"
+        android:textColor="@ref/0x7f0c0012"
+        android:id="@ref/0x7f0f0030"
+        android:layout_width="-2"
+        android:layout_height="-2" />
+
+    <ImageView
+        android:layout_gravity="0x10"
+        android:background="@ref/0x7f020077"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(12582945)"
+        android:contentDescription="@ref/0x00000000"
+        android:layout_marginStart="dimension(1537)" />
+</LinearLayout>
+
+<LinearLayout
+    android:gravity="0x10"
+    android:orientation="1"
+    android:id="@ref/0x7f0f0031"
+    android:layout_width="-1"
+    android:layout_height="-1"
+    android:layout_marginStart="@ref/0x7f09004a"
+    android:layout_marginEnd="@ref/0x7f090021"
+    android:layout_toEndOf="@ref/0x7f0f002e">
+
+    <com.miui.calculator.common.widget.ScrollTextView
+        android:textSize="@ref/0x7f090024"
+        android:textColor="@ref/0x7f0c0014"
+        android:gravity="0x800005"
+        android:id="@ref/0x7f0f0032"
+        android:layout_width="-1"
+        android:layout_height="-2" />
+
+    <TextView
+        android:textSize="@ref/0x7f090003"
+        android:textColor="@ref/0x7f0c0013"
+        android:layout_gravity="0x800005"
+        android:id="@ref/0x7f0f0033"
+        android:layout_width="-2"
+        android:layout_height="-2" />
+</LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="login">LOGIN</string>
+    <string name="udit">Enter your id</string>
+    <string name="uditp">Enter Password</string>
+    <string name="button">Button</string>
+</resources>
